@@ -3,7 +3,6 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
-const { FOREIGNKEYS } = require('sequelize/types/lib/query-types');
 
 // Products belongsTo Category
 Product.belongsTo(Category, {

@@ -30,3 +30,5 @@ Validation & Constraints: https://sequelize.org/docs/v6/core-concepts/validation
 References: https://sequelize.org/docs/v6/other-topics/constraints-and-circularities/#enforcing-a-foreign-key-reference-without-constraints
 <br>
 Associations: https://sequelize.org/docs/v6/core-concepts/assocs/
+<br>
+Model Querying - Finders: https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
